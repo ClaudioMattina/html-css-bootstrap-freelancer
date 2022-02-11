@@ -2,15 +2,18 @@
 
 
 
-
-.col{
+/* HEADER */
+.my-height-row-header{
     background-color: lightblue;
-    height: 3rem;
-    border: 1px solid blue;
+    height: 5rem;
+}
+/* sezioni header */
+.section-col-header{
+    border: 1px solid black;
 }
 
-
-.my-icon{
+/* JUMBOTRON */
+.my-principale-img{
     height: 30rem;
     background-color: aquamarine;
 }
