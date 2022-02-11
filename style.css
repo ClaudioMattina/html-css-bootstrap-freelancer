@@ -13,26 +13,22 @@
 }
 
 /* JUMBOTRON */
-.my-portfolio-row{
+.my-principale-img{
     height: 30rem;
     background-color: aquamarine;
 }
-
-.my-title-col{
-    background-color: brown;
-    height: 10rem;
-}
-
-.my-schede-col{
+/* schede */
+.my-schede-row{
     height: 40rem;
     background-color: chocolate;
 }
 
+/* bg container about */
 .my-bg-container-paragrafo{
     background-color: cadetblue;
 }
 
-.my-paragrafo{
+.my-about{
     height: 30rem;
 }
 
