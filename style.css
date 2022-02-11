@@ -21,7 +21,7 @@
 }
 
 .my-schede-col{
-    height: 20rem;
+    height: 40rem;
     background-color: chocolate;
 }
 
@@ -30,10 +30,20 @@
 }
 
 .my-paragrafo{
-    height: 10rem;
+    height: 30rem;
 }
 
 .my-contact-me{
     background-color: blueviolet;
-    height: 20rem;
+    height: 30rem;
+}
+
+.my-location{
+    background-color: cornflowerblue;
+    height: 30rem;
+}
+
+.footer{
+    height: 12rem;
+    background-color: black;
 }
