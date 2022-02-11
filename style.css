@@ -8,3 +8,32 @@
     height: 3rem;
     border: 1px solid blue;
 }
+
+
+.my-icon{
+    height: 30rem;
+    background-color: aquamarine;
+}
+
+.my-title-col{
+    background-color: brown;
+    height: 10rem;
+}
+
+.my-schede-col{
+    height: 20rem;
+    background-color: chocolate;
+}
+
+.my-bg-container-paragrafo{
+    background-color: cadetblue;
+}
+
+.my-paragrafo{
+    height: 10rem;
+}
+
+.my-contact-me{
+    background-color: blueviolet;
+    height: 20rem;
+}
