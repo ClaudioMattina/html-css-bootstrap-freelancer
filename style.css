@@ -32,17 +32,29 @@
     height: 30rem;
 }
 
-.my-contact-me{
+
+/* sezione contact me */
+.my-contact-me-row{
     background-color: blueviolet;
     height: 30rem;
 }
 
+
+/* my location e altri */
 .my-location{
     background-color: cornflowerblue;
     height: 30rem;
 }
 
+/* footer */
 .footer{
     height: 12rem;
     background-color: black;
+}
+
+
+.my-ciao-prova{
+    background-color: rgb(43, 226, 43);
+    height: 5rem;
+    border: 2px solid black;
 }
