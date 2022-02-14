@@ -13,10 +13,31 @@
 }
 
 /* JUMBOTRON */
-.my-principale-img{
-    height: 30rem;
-    background-color: aquamarine;
+
+.my-img{
+    width: 250px;
+    height: 250px;
 }
+
+.my-img img{
+    width: 100%;
+}
+
+.my-space-bar{
+    border-bottom: 4px solid white;
+    width: 100px;
+}
+
+.my-icon{
+    font-size: 2rem;
+    color: white;
+}
+
+li{
+    text-decoration: none;
+    list-style: none;
+}
+
 /* schede */
 .my-schede-row{
     height: 40rem;
