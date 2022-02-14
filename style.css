@@ -34,23 +34,24 @@
 }
 
 li{
-    text-decoration: none;
     list-style: none;
 }
 
+
+/* PORTFOLIO */
 /* schede */
-.my-schede-row{
-    height: 40rem;
-    background-color: chocolate;
+.my-scheda-img{
+    height: 20rem;
+}
+
+.my-scheda-img img{
+    width: 100%;
 }
 
 /* bg container about */
-.my-bg-container-paragrafo{
-    background-color: cadetblue;
-}
-
 .my-about{
     height: 30rem;
+    width: 100%;
 }
 
 
@@ -71,11 +72,4 @@ li{
 .footer{
     height: 12rem;
     background-color: black;
-}
-
-
-.my-ciao-prova{
-    background-color: rgb(43, 226, 43);
-    height: 5rem;
-    border: 2px solid black;
 }
