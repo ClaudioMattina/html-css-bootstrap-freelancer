@@ -19,9 +19,7 @@
     height: 250px;
 }
 
-.my-img img{
-    width: 100%;
-}
+
 
 .my-space-bar{
     border-bottom: 4px solid white;
@@ -40,16 +38,10 @@ li{
 
 /* PORTFOLIO */
 /* schede */
-.my-scheda-img{
-    height: 20rem;
-}
 
 .my-scheda-img img{
     width: 100%;
 }
-
-/* bg container about */
-
 
 
 /* sezione contact me */
@@ -58,6 +50,3 @@ li{
 }
 
 
-/* my location e altri */
-
-/* footer */
