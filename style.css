@@ -49,27 +49,15 @@ li{
 }
 
 /* bg container about */
-.my-about{
-    height: 30rem;
-    width: 100%;
-}
+
 
 
 /* sezione contact me */
-.my-contact-me-row{
-    background-color: blueviolet;
-    height: 30rem;
+.my-message{
+    margin-bottom: 10rem;
 }
 
 
 /* my location e altri */
-.my-location{
-    background-color: cornflowerblue;
-    height: 30rem;
-}
 
 /* footer */
-.footer{
-    height: 12rem;
-    background-color: black;
-}
